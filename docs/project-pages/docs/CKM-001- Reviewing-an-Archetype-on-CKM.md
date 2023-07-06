@@ -1,12 +1,12 @@
-# Reviewing an Archetype on CKM
+# Reviewing an Archetype on the Apperta CKM
 
-!!! note "Acknowledgement"
+!!! warning Acknowledgement
 
 This page is adapted from the original 'Review Archetype content' openEHR wiki page created by Dr Heather Leslie at 
 
 https://openehr.atlassian.net/wiki/spaces/healthmod/pages/2949148/Review+Archetype+Content
 
-but which may not be accessed directly from some emebbed web pages.
+but which may not be accessed directly from within some embedded web pages.
 
 
 ## Registering as a reviewer
@@ -15,34 +15,51 @@ You must first have registered as an archetype reviewer with the Apperta MSK / O
 
 ![](images/signup-link.png)
 
-## Option 1 
 
-You have been invited to participate in formal archetype content review via email, similar to the one below, stating:
+## Getting started with your archetype review
 
-The name of the archetype that will be reviewed. 
+When the archetype review starts, you will receive an email invitation which you can use to start your review directly or you can visit the Apperta CKM Dashboard and start or continue your review from there
 
-![](images/ckm-invite.jpg)
+### A. Start your archetype review via the email invitation 
 
-#### Choose one of the following options:
+You will be invited to to participate in formal archetype reviews via an email, similar to the one below, stating the name of the archetype that will be reviewed. 
 
-'**Accept and Review archetype now**' - This option will open the Clinical Knowledge Manager (CKM), ready for you to log in, and then display the editorial introductory comments for the review.  This is displayed on the front tab of a wizard which will progressively step you through all of the parts of the content review.
+![](images/apperta-invite.png)
+ 
 
-'**Accept and Review archetype later**' - This option will notify the editor of your acceptance, and you will be able to log in to CKM and complete the review at your convenience. 
+Choose one of the following options ...
 
-'**Decline the invitation**' - this option will notify the editor that you are not able to participate in the review.
-'Decline all invitations for this archetype' - this option will notify the editor that you are not able to participate in the review, and block any subsequent review invitations for this particular archetype.
+#### Accept and Review archetype now:
+
+This option will open the Clinical Knowledge Manager (CKM), ready for you to log in, and then display the editorial introductory comments for the review.  This is displayed on the front tab of a wizard which will progressively step you through all of the parts of the content review.
+
+#### Accept and Review archetype later:
+
+This option will notify the editor of your acceptance, and you will be able to log in to CKM and complete the review at your convenience. 
+
+#### Decline the invitation:
+
+This option will notify the editor that you are not able to participate in the review.
+
+#### Decline all invitations for this archetype:
+
+This option will notify the editor that you are not able to participate in the review, and block any subsequent review invitations for this particular archetype.
 
 The due date for completion of the review is also displayed.
 
+The first option  - '**Review Archetype Now**' is clearly the easiest way to get access to the archetype review.  
 
-So, the first option  - '**Review Archetype Now**' is clearly the easiest way to get access to the archetype review.  However, if you wish to access the archetype review directly from within the CKM, then you can do this by:
+However, you may also access the archetype review directly from within the Apperta CKM...
 
-### Option 2
+### B. Start the archetype review via Apperta CKM
 
-Locate your Dashboard tab.
-![](images/ckm-dash-option.jpg)
+The Apperta CKM is at  https://ckm.apperta.org 
 
-Within the Dashboard will be a panel called 'My Active Reviews'.
+Login and locate your Dashboard tab.
+
+![](images/ckm-apperta-dash.png)
+
+Within the Dashboard will be a panel called **'My Active Reviews'**.
 
 Click on the green arrow next to the archetype invitation
 Select 'Start Your Review' to initiate the review.
@@ -58,27 +75,30 @@ On successful initiation of the review the introductory comments from the Editor
 
 From this screen it is also possible to:
 
-View already completed reviews from other reviewers in the current or any previous review rounds.
-Display a mindmap view of the archetype
-Download the archetype onto your computer
-During the review it may be useful to refer to the Archetype Checklist for further guidance.
+- View already completed reviews from other reviewers in the current or any previous review rounds.
+- Display a mindmap view of the archetype
+- Download the archetype onto your computer
+- During the review it may be useful to refer to the Archetype Checklist for further guidance.
 
-Navigate to the next topic in the review by clicking on the 'Next' button.
+Navigate to the next topic in the review by clicking on the `Next` button.
 
 ### 2. Subsequent Screens
 
 ![](images/ckm-review-page.jpg)
-You can see that the active tab is now the second tab labeled 'Header'.  This will enable the user to provide feedback about each element of the header. 
 
-Add the comments into the text box labeled 'Your comment:'.
+You can see that the active tab is now the second tab labeled `Header`.  This will enable the user to provide feedback about each element of the header. 
 
-Once you have completed all the Header-related comments, clicking on the 'Next' button will take you progressively through each tab, or page, in the review.  In this example, Data, State, Protocol, and Events make up the components of the archetype. The 'Reference model' tab is only intended to inform the reviewers of the standard elements that are inherited from the reference model to the archetype, and can't be commented. The overall comments enables broader feedback about the archetype as a whole. 
+Add the comments into the text box labelled `Your comment:`.
 
-You can always save the review at any stage, without having to complete every topic. To submit the review as final, the 'Overall recommendation' element in the 'Overall comments' tab has to be completed.
+Once you have completed all the Header-related comments, clicking on the `Next` button will take you progressively through each tab, or page, in the review.  
 
-Complete the review in the same way as above.
+In this example, Data, State, Protocol, and Events make up the components of the archetype. 
 
-#### Archetype Review Checklist
-Have a look at our Archetype Review Checklist for further details on what to consider when reviewing an archetype.
+The `Reference model` tab is only intended to inform the reviewers of the standard elements that are inherited from the reference model to the archetype, and can't be commented. 
 
-Multiple options can be selected.
+The `Overall comments` section enables broader feedback about the archetype as a whole. 
+
+You can always `Save` the review at any stage, without having to complete every topic. 
+
+To submit the review as final, the `Overall recommendation` element in the 'Overall comments' tab has to be completed.
+

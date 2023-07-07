@@ -4,7 +4,7 @@
 
 This project aims to build and publish a number of openEHR archetypes and templates, relating to the kind of clinical and patient-recorded information associated with a typical MSK/ Orthopaedic pathway/journey, and used for example in the [openOutcomes application].
 
-The initial focus will be on PROMS (Patient Recorded Outcome Measures), with the ultimate aim of having these re-published by openEHR International.
+The initial focus will be on PROMS (Patient Reported Outcome Measures), with the ultimate aim of having these re-published by openEHR International.
 
 ## openEHR archetypes and templates
 

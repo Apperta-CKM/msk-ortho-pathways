@@ -1,12 +1,8 @@
 # Reviewing an Archetype on the Apperta CKM
 
-!!! warning Acknowledgement
-
-This page is adapted from the original 'Review Archetype content' openEHR wiki page created by Dr Heather Leslie at 
-
-https://openehr.atlassian.net/wiki/spaces/healthmod/pages/2949148/Review+Archetype+Content
-
-but which may not be accessed directly from within some embedded web pages.
+!!! info "Acknowledgement"
+	This page is adapted from the original 'Review Archetype content' openEHR wiki page created by Dr Heather Leslie at https://openehr.atlassian.net/wiki/spaces/healthmod/pages/2949148/Review+Archetype+Content
+	but which may not be accessed directly from within some embedded web pages.
 
 
 ## Registering as a reviewer
